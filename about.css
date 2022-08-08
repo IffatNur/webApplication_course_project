@@ -1,0 +1,29 @@
+* {
+  margin: 0%;
+  
+}
+body{
+    background-image: linear-gradient(to bottom right,khaki, rgb(81, 79, 228) );
+}
+div{
+    text-align: center;
+    font-size: 20px;
+}
+ul{
+    text-align: center;
+    
+}
+h4 {
+  text-align: center;
+  color: white;
+  background-color: black;
+  padding: 10px;
+}
+h2{
+    margin-bottom: 15px; 
+    padding:10px;
+    color:black;
+    background-image: linear-gradient( khaki,white,khaki);
+}
+
+
